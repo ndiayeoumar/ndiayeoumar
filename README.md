@@ -84,8 +84,6 @@ Currently building **[OmicsPilot](https://omicspilot.com)** 🚀: an open bioinf
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ndiayeoumar&show_icons=true&theme=algae&hide_border=true&bg_color=0d1117&title_color=32e0c4&icon_color=14a085&text_color=a8f0e6" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndiayeoumar&layout=compact&theme=algae&hide_border=true&bg_color=0d1117&title_color=32e0c4&text_color=a8f0e6&langs_count=8" />
 
-<img src="https://streak-stats.demolab.com?user=ndiayeoumar&theme=algae&hide_border=true&background=0d1117&ring=32e0c4&fire=14a085&currStreakLabel=32e0c4" />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ndiayeoumar&theme=react-dark&bg_color=0d1117&color=32e0c4&line=14a085&point=32e0c4&hide_border=true" />
 
 </div>
