@@ -1,27 +1,22 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d7377,50:14a085,100:32e0c4&height=200&section=header&text=Oumar%20Ndiaye&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computational%20Biologist%20%C2%B7%20Bioinformatics%20Developer%20%C2%B7%20Open%20Source%20Builder&descAlignY=60&descSize=16&descColor=a8f0e6" />
-
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=32E0C4&center=true&vCenter=true&width=700&lines=🧬+Building+tools+for+multi-omics+analysis;🔬+scRNA-seq+%7C+FBA+%7C+NGS+Pipelines;🐍+Python+%7C+Django+%7C+Vue.js+%7C+Snakemake;🌍+Democratizing+bioinformatics+@+OmicsPilot" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d7377,50:14a085,100:32e0c4&height=200&section=header&text=Oumar%20Ndiaye&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Bioinformatics%20Developer%20%C2%B7%20Software%20Engineer&descAlignY=60&descSize=16&descColor=a8f0e6" />
 
 <br/>
 
 <!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oumar7sn)
-[![OmicsPilot](https://img.shields.io/badge/OmicsPilot-omicspilot.com-14a085?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyeiIvPjwvc3ZnPg==&logoColor=white)](https://omicspilot.com)
-[![PyPI](https://img.shields.io/badge/PyPI-CellMetPro-3776AB?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/omicspilot/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oumar7sn)
+[![OmicsPilot](https://img.shields.io/badge/Web-omicspilot.com-14a085?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyeiIvPjwvc3ZnPg==&logoColor=white)](https://omicspilot.com)
+[![PyPI](https://img.shields.io/badge/PyPI-Omicspilot-3776AB?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/omicspilot/)
 
 </div>
 
 ---
 
-## 🧬 About Me
+## About Me
 
-I'm a **bioinformatics developer** and **full-stack software engineer** passionate about making omics data analysis tools that can be intuitive and accessible for everyone.
+As **software engineer** and **bioinformatics developer**, I'm passionate about making omics data analysis tools that can be intuitive and accessible for everyone.
 
 Background spanning **B.Sc. Bioinformatics**, **M.Sc. Medical Biotechnology**, and **5+ years in software engineering** (Python, Node.js, React, TypeScript).
 
@@ -29,7 +24,7 @@ Currently building **[OmicsPilot](https://omicspilot.com)** 🚀: an open bioinf
 
 ---
 
-## 🔭 Current Projects
+## Current Projects
 
 <table>
   <tr>
@@ -52,7 +47,7 @@ Currently building **[OmicsPilot](https://omicspilot.com)** 🚀: an open bioinf
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### 🧬 Bioinformatics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -77,12 +72,9 @@ Currently building **[OmicsPilot](https://omicspilot.com)** 🚀: an open bioinf
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ndiayeoumar&show_icons=true&theme=algae&hide_border=true&bg_color=0d1117&title_color=32e0c4&icon_color=14a085&text_color=a8f0e6" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndiayeoumar&layout=compact&theme=algae&hide_border=true&bg_color=0d1117&title_color=32e0c4&text_color=a8f0e6&langs_count=8" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ndiayeoumar&theme=react-dark&bg_color=0d1117&color=32e0c4&line=14a085&point=32e0c4&hide_border=true" />
 
@@ -90,7 +82,7 @@ Currently building **[OmicsPilot](https://omicspilot.com)** 🚀: an open bioinf
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
 <div align="center">
 
