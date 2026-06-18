@@ -1,14 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d7377,50:14a085,100:32e0c4&height=200&section=header&text=Oumar%20Ndiaye&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Bioinformatics%20Developer%20%C2%B7%20Software%20Engineer&descAlignY=60&descSize=16&descColor=a8f0e6" />
-
-<br/>
-
-<!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oumar7sn)
-[![OmicsPilot](https://img.shields.io/badge/Web-omicspilot.com-14a085?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyeiIvPjwvc3ZnPg==&logoColor=white)](https://omicspilot.com)
-[![PyPI](https://img.shields.io/badge/PyPI-Omicspilot-3776AB?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/omicspilot/)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d7377,50:14a085,100:32e0c4&height=200&section=header&text=Oumar%20Ndiaye&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Bioinformatician%20%C2%B7%20Software%20Engineer&descAlignY=60&descSize=16&descColor=a8f0e6" />
 
 </div>
 
