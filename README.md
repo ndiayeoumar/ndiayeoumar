@@ -47,7 +47,7 @@ Currently building **[OmicsPilot](https://omicspilot.com)** 🚀: an open bioinf
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Biopython](https://img.shields.io/badge/BioPython-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scanpy](https://img.shields.io/badge/Scanpy-scRNA--seq-14a085?style=for-the-badge)
-![Nextflow](https://img.shields.io/badge/Nextflow-0DC09D?logo=nextflow&logoColor=fff&style=flat-square)
+![Nextflow](https://img.shields.io/badge/Nextflow-0DC09D?logo=nextflow&logoColor=fff&style=for-the-badge)
 
 ### 🌐 Web & Software Engineering
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
