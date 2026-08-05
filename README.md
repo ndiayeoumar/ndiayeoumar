@@ -59,8 +59,10 @@ Currently building **[OmicsPilot](https://omicspilot.com)** 🚀: an open bioinf
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 📊 Data & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Tidyverse Badge](https://img.shields.io/badge/Tidyverse-13AA52?logo=tidyverse&logoColor=fff&style=flat)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&size=40x40)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
@@ -70,7 +72,7 @@ Currently building **[OmicsPilot](https://omicspilot.com)** 🚀: an open bioinf
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ndiayeoumar&theme=react-dark&bg_color=0d1117&color=32e0c4&line=14a085&point=32e0c4&hide_border=true" />
+<img src="https://ghchart.rshah.org/32e0c4/ndiayeoumar" alt="Oumar's GitHub chart" />
 
 </div>
 
