@@ -72,7 +72,7 @@ Currently building **[OmicsPilot](https://omicspilot.com)** 🚀: an open bioinf
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/32e0c4/ndiayeoumar" alt="Oumar's GitHub chart" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ndiayeoumar&theme=react-dark&bg_color=0d1117&color=32e0c4&line=14a085&point=32e0c4&hide_border=true" />
 
 </div>
 
