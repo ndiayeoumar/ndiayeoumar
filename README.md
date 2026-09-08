@@ -22,14 +22,14 @@ Currently building **[OmicsPilot](https://omicspilot.com)** 🚀: an open bioinf
 <table>
   <tr>
     <td width="50%">
-      <h3>🧪 <a href="https://github.com/ndiayeoumar/cellmetpro">CellMetPro</a></h3>
+      <h3>🧪 <a href="https://github.com/omicspilot/cellmetpro">CellMetPro</a></h3>
       <p>Python package for inferring cellular metabolic states from scRNA-seq data. Reimplements and extends the <strong>Compass algorithm</strong> using Flux Balance Analysis and genome-scale metabolic models.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/PyPI-published-32e0c4?style=flat"/>
       <img src="https://img.shields.io/badge/FBA-COBRApy-14a085?style=flat"/>
     </td>
     <td width="50%">
-      <h3>🔬 <a href="https://github.com/ndiayeoumar/bioseqflow">BioSeqFlow</a></h3>
+      <h3>🔬 <a href="https://github.com/omicspilot/bioseqflow">BioSeqFlow</a></h3>
       <p>Automated NGS Quality Control & Preprocessing pipeline integrating FastQC, Trimmomatic, fastp, MultiQC and more — with parallel processing, checkpoint/resume, and interactive dashboards.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Nextflow-0DC09D?logo=nextflow&logoColor=fff&style=flat-square?style=flat"/>
