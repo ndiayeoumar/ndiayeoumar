@@ -46,13 +46,13 @@ Currently building **[OmicsPilot](https://omicspilot.com)** 🚀: an open bioinf
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Biopython](https://img.shields.io/badge/BioPython-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scanpy](https://img.shields.io/badge/Scanpy-scRNA--seq-14a085?style=for-the-badge)
+![Scanpy](https://img.shields.io/badge/Scanpy-1.10-8CA1D4?style=flat)
 ![Nextflow](https://img.shields.io/badge/Nextflow-0DC09D?logo=nextflow&logoColor=fff&style=for-the-badge)
 
 ### 🌐 Web & Software Engineering
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastApi](https://img.shields.io/badge/FastApi-446260?style=for-the-badge&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![FastApi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
